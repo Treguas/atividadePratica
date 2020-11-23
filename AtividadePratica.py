@@ -1,4 +1,4 @@
-# variáveis de entrada
+# variable input
 student = int(input('Digite a matrícula do aluno: '))
 n1 = int(input('Digite a primeira nota: '))
 n2 = int(input('Digite a segunda nota: '))
