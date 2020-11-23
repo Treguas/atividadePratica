@@ -1,4 +1,4 @@
-# atividadePratica
+# Atividade Pratica
 
 
 Escreva um algoritmo que lêia o número de identificação, das 3 notas obtidas por um aluno nas 3 verificações e a média dos exercícios que fazem parte da avaliação. Calcule a média de aproveitamento, usando a fórmula:
